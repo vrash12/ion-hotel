@@ -12,3 +12,10 @@
 - No broken loaded images or browser warning/error logs were observed in the final local preview.
 - Public contact data comes from the hotel's Facebook page; image and listing sources are documented in SOURCES.md.
 - Static source inspection confirms no form network submission, cookies, browser storage or analytics. No backend or build process is required. Direct file opening was not separately browser-tested.
+
+## Logo palette update
+
+- Supplied logo copied unchanged and displayed in header/footer; favicon and site colors now follow its brown and green palette.
+- Desktop homepage and mobile menu visually reviewed. Logo loads and no horizontal overflow at 320, 390, 768, 1024 and 1440 CSS pixels.
+- Mobile menu closes when selecting Gallery; no browser errors observed.
+- Checked key text contrast: button text 7.66:1, green hero text 6.14:1, muted text on the soft background 5.29:1, and header navigation 13.63:1.

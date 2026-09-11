@@ -22,7 +22,11 @@ Photos are downloaded locally, optimized to WebP and not hotlinked. They are rea
 | `assets/images/dining.webp` | Breakfast area; visible photographer signature **Jovel Rivera** retained | [Hotels.com](https://www.hoteles.com/en/ho2825172448/ion-hotel-baguio-philippines/), [original image](https://images.trvl-media.com/lodging/89000000/88260000/88255400/88255389/7929b95e.jpg) |
 | `assets/images/exterior-night.webp` | Hotel at night; hotel's own Facebook cover photo | [Ion Hotel cover viewer](https://www.facebook.com/photo/?fbid=109725738594245&set=a.107657458801073). Downloaded the full displayed 1080×752 image from Facebook CDN; no stable CDN link is used by the website. |
 
-Room labels are mapped to their respective listing photos. Current layouts and furnishings may differ. The favicon and text wordmark are typography created for this concept and are not an official logo file.
+Room labels are mapped to their respective listing photos. Current layouts and furnishings may differ.
+
+## Logo and palette
+
+The header and footer use the user's supplied Ion Hotel logo, saved unchanged as `assets/images/ion-logo.jpg`. CSS frames the central wordmark without altering the original image. The palette follows the supplied image: chocolate brown `#3e2425`, bright green `#3bc72a`, warm ivory surfaces and darker green for readable text. The small favicon is a typographic adaptation for this concept.
 
 ## Privacy and demo behavior
 
